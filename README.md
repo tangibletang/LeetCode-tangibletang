@@ -6,6 +6,7 @@ Leetcode Practice
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0033-search-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -40,4 +41,8 @@ Leetcode Practice
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
