@@ -32,6 +32,7 @@ Leetcode Practice
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -45,4 +46,8 @@ Leetcode Practice
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0033-search-in-rotated-sorted-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
