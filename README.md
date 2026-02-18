@@ -33,6 +33,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -50,4 +51,12 @@ Leetcode Practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
