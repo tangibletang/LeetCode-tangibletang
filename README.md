@@ -16,6 +16,7 @@ Leetcode Practice
 | [0682-baseball-game](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Leetcode Practice
 | [0542-01-matrix](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -126,6 +128,7 @@ Leetcode Practice
 | [0542-01-matrix](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
