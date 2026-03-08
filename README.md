@@ -14,6 +14,7 @@ Leetcode Practice
 | [0560-subarray-sum-equals-k](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Leetcode Practice
 | [0200-number-of-islands](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -120,6 +122,7 @@ Leetcode Practice
 | [0200-number-of-islands](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
