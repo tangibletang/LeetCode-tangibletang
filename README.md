@@ -11,6 +11,7 @@ Leetcode Practice
 | [0200-number-of-islands](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0217-contains-duplicate) |
 | [0463-island-perimeter](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0733-flood-fill) |
@@ -98,6 +99,7 @@ Leetcode Practice
 | [0111-minimum-depth-of-binary-tree](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -121,10 +123,15 @@ Leetcode Practice
 | ------- |
 | [0200-number-of-islands](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0200-number-of-islands) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
