@@ -4,34 +4,21 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-from collections import deque
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
-        if not root:
-            return True
-            
-        # Push the first pair: the two children of the root
-        queue = deque([root.left, root.right])
+        if not root: 
+            return True #empty tree is symmetric 
+        
+        return self.isMirror(root.left, root.right)
+        
+    def isMirror(self, t1, t2):
+        if not t1 and not t2: 
+            return True # Both are empty - match!
+        if not t1 or not t2: 
+            return False # One is empty, one isn't - fail!
+        if t1.val != t2.val: 
+            return False # Values don't match - fail!
+        outer_match = self.isMirror(t1.left, t2.right)
+        inner_match = self.isMirror(t1.right, t2.left)
 
-        while queue: 
-            # Pop the pair currently at the front
-            L = queue.popleft()
-            R = queue.popleft()
-            
-            # 1. If both are None, this "branch" is symmetric. Continue to next pair.
-            if not L and not R:
-                continue
-                
-            # 2. If only one is None, OR the values don't match, it's not symmetric.
-            if not L or not R or L.val != R.val:
-                return False
-                
-            # 3. Mirror Push:
-            # Pair the outsides
-            queue.append(L.left)
-            queue.append(R.right)
-            # Pair the insides
-            queue.append(L.right)
-            queue.append(R.left)
-            
-        return True
+        return outer_match and inner_match
