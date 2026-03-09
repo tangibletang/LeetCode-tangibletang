@@ -91,6 +91,7 @@ Leetcode Practice
 | [0102-binary-tree-level-order-traversal](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Leetcode Practice
 | [0104-maximum-depth-of-binary-tree](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0733-flood-fill) |
@@ -111,6 +113,7 @@ Leetcode Practice
 | [0102-binary-tree-level-order-traversal](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -118,6 +121,7 @@ Leetcode Practice
 | [0104-maximum-depth-of-binary-tree](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/tangibletang/LeetCode-tangibletang/tree/master/0733-flood-fill) |
 ## Matrix
